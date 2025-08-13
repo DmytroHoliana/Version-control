@@ -1,0 +1,2 @@
+echo "Twenty ships with Norsemen braves" > storm.txt
+echo "Riding the northern wind" >> storm.txt
